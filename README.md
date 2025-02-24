@@ -60,7 +60,7 @@
 
 1. **Fork the Public Repository**: **Fork** this repo into your own GitHub account.
 
---###  Forked the repository and uploaded hte files in the forked repository
+--### Forked the repository and uploaded hte files in the forked repository
 
 **STEPS TO EXECUTE":
 -create taskmanager database
@@ -70,6 +70,6 @@
 - run npm run dev
 - frontend part run 'npm start'
   
-###Salary Expectations: 25$ - 30$/ hr 
+### Salary Expectations: 25$ - 30$/ hr 
 monthly : 3500$ to 4000$ per month
 

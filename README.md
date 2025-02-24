@@ -60,7 +60,7 @@
 
 1. **Fork the Public Repository**: **Fork** this repo into your own GitHub account.
 
---### Forked the repository and uploaded hte files in the forked repository
+### Forked the repository and uploaded hte files in the forked repository
 
 **STEPS TO EXECUTE":
 -create taskmanager database
